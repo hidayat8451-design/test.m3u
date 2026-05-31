@@ -1,1 +1,6 @@
 # test.m3u
+EXTM3U
+#EXTINF:-1,METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1939049809_b384000_sleng.m3u8
