@@ -71,7 +71,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w641536229_b628000_sleng.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 group-title="Nasional",RCTI TEST
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://rcti-linier.rctiplus.id/hdntl=exp=1781801476~acl=%2F*~data=hdntl~hmac=4c800fbc7e5fd3c73f3d82cdfbd1aaab765ad5ddb603a784b06dde198ef5210e/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_idx.png",IDX Channel
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
