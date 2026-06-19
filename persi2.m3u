@@ -5,7 +5,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1939049809_b384000_sleng.m3u8
 #EXTINF:-1 group-title="News",TVONE
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="Indonesia (IPTV)", SIN PO TV (Maxstream)
+#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="Indonesia (IPTV)", SIN PO TV (Maxstream)
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
