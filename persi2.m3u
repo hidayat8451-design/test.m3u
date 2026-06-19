@@ -47,16 +47,13 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies" tvg-logo="
-https://object-streamo.emonaja.com/img/hbo.png", HBO (Maxstream)
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbo.png", HBO (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 tvg-id="HBO.Hits.id" tvg-name="HBO Hits" group-title="Movies" tvg-logo="
-https://object-streamo.emonaja.com/img/hbohits.webp", HBO Hits (Maxstream)
+#EXTINF:-1 tvg-id="HBO.Hits.id" tvg-name="HBO Hits" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp", HBO Hits (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies" tvg-logo="
-https://object-streamo.emonaja.com/img/hbofamily.png", HBO Family (Maxstream)
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png", HBO Family (Maxstream)
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
