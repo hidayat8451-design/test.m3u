@@ -42,8 +42,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1214565622_b878000_s
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1,RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png",ARENASPORT 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZv5Dy7sOu2_nM7QADKY9IpjqMKXkTIIikZCj6-rjJtQ&s" group-title="DAERAH",FICOM TV (Ga 24 Jam)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="News",KOMPAS TV Digital (S1)
@@ -80,6 +78,70 @@ https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 1 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 2 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 2 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 3 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 3 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641626
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 4 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 4 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641627
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 5 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 5 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641628
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 6 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 6 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641629
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 7 FHD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 8 FHD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 9 FHD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan Sport 10 FHD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan F1 FHD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALL SPORTS🔥",Alwan UFC FHD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png",ARENASPORT 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png",ARENASPORT 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-3.png",ARENASPORT 3
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport4.png",ARENASPORT 4
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-5-rs.png",ARENASPORT 5
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-6-rs.png",ARENASPORT 6
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1, group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-7-rs.png",ARENASPORT 7
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-8-rs.png",ARENASPORT 8
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVyWthsSAuVgOTQtR_aCR4Vfw4xIab7YDvuaH0ij3&s=10",ARENASPORT 9
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+#EXTINF:-1 group-title="ARENA SPORT" group-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png",Arena Premium 1
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-2.png",Arena Premium 2
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png",Arena Premium 3
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium4.png" group-title="ARENA SPORT" ,Arena Premium 4
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27356
+#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium5.png" group-title="ARENA SPORT" ,Arena Premium 5
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -88,7 +150,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w641536229_b628000_sl
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 group-title="Nasional",RCTI TEST
 https://rcti-linier.rctiplus.id/hdntl=exp=1781801476~acl=%2F*~data=hdntl~hmac=4c800fbc7e5fd3c73f3d82cdfbd1aaab765ad5ddb603a784b06dde198ef5210e/rcti-sdi-avc1_100000=11-mp4a_96000=1.m3u8
-
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_idx.png",IDX Channel
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
