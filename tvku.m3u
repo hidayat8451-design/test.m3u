@@ -11,3 +11,5 @@ https://TVRATU.Id/vid/index.mpd?id=205&type=dash
 https://D3B0V7FGGU5ZWM cloudfront.net/out/v19e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 #EXTINF:-1,TVRI
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+#EXTINF:-1,DENS SHOWBIZ
+https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
