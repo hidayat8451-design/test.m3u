@@ -12,6 +12,6 @@ https://D3B0V7FGGU5ZWM cloudfront.net/out/v19e9aba7068ca4c7f8a73381bef5f8742/ind
 #EXTINF:-1,TVRI
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 EXTINF://TVRI WORLD
-https://ott-balancer.tvri.go.id/live/TVRIworld/hls/TVRIWorld.m3U
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=10000-mp4a_64000=20001.m3u8
 #EXTINF:-1,DENS SHOWBIZ
 https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
