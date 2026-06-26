@@ -62,6 +62,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-name="My Cinema Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCxS0W-fLPnpzkOiXMk6bQFCddX2IvIGHqg&s", My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1,MYCINEMA EUROPE
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 "HBO" group-title="Movies", HBO (Maxstream) 
 group-title="Movies", HBO (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
@@ -81,6 +83,8 @@ http://iptvtree.net:8080/F25660/4184162c/298529
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://pic.dens.tv/tv_183x174/1591343514_square.jpg",Dens ShowBiz
 https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+
+=====================
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (IPTV)", ANTV (Emtek)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
