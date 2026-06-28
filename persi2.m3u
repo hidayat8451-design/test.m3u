@@ -63,9 +63,6 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 group-title="News",KOMPAS TV Digital 
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/03.m3u8
-#EXTINF:-1 group-title="Movies" tvg-name="My Cinema Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCxS0W-fLPnpzkOiXMk6bQFCddX2IvIGHqg&s", My Cinema Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1,MYCINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 "HBO" group-title="Movies", HBO (Maxstream) 
@@ -78,6 +75,8 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbosig.png", HBO Signature (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/cinemax.png", Cinemax (Maxstream)
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01
 http://iptvtree.net:8080/F25660/4184162c/298526
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02
