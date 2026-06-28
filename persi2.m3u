@@ -27,9 +27,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1,MOJI TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
-
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="Indonesia (Digital)", Moji (UHF Alt)
+http://opplextv.cyou:8080/nasir6160/nasir/350997
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
