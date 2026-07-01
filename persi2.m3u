@@ -31,6 +31,8 @@ EXTINF:-1, TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10013-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1,TVRI
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8
+#EXTINF://-1,TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_250000=10014-mp4a_64000_eng=20003.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Indonesia (Digital)", TVRI Sport (UHF)
 http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1, TVRI WORLD
