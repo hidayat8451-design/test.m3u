@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
+#EXTM3U 
 #EXTINF:-1,METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 #EXTINF:-1,CNN
@@ -81,11 +81,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 
 =====================
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (IPTV)", ANTV (Emtek)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://vidx.semar.my.id/biasa2.mpd?id=782&type=dash
+#EXTINF:-1 ANTV
+https://nexoratv.qzz.io/api/stream/8833ce21-903c-453a-9bfc-7f4421e819fc/dash/manifest.mpd
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (IPTV)", ANTV (Emtek Alt)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
