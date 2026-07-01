@@ -47,8 +47,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="News",KOMPAS TV Digital (S1)
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-#EXTINF:-1 group-title="News",KOMPAS TV Digital 
-https://op-flashcon-digdayahd-1.dens.tv/h/h234/03.m3u8
+#EXTINF:-1,INEWS
+https://inews-linier.rctiplus.id/hdntl=exp=1782933966~acl=%2F*~data=hdntl~hmac=7421f9cb5261ec6fed6a3c3048dac1a154544bf9cffb01fea6e46db7bc345c58/inews-sdi-avc1_100000=7-mp4a_96000=1.m3u8
 #EXTINF:-1,MYCINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 "HBO" group-title="Movies", HBO (Maxstream) 
