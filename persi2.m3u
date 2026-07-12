@@ -87,6 +87,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 
 =====================
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia (IPTV)", SCTV (Maxstream)
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1, RCTI
 https://nexoratv.qzz.io/api/stream/491b8d84-f2cb-4f19-a264-af98bf7b49c8/dash/manifest.mpd
 #EXTINF:-1, ANTV
