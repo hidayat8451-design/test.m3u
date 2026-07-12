@@ -59,6 +59,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 https://inews-linier.rctiplus.id/hdntl=exp=1782933966~acl=%2F*~data=hdntl~hmac=7421f9cb5261ec6fed6a3c3048dac1a154544bf9cffb01fea6e46db7bc345c58/inews-sdi-avc1_100000=7-mp4a_96000=1.m3u8
 #EXTINF:-1,MYCINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://object-streamo.emonaja.com/img/warner.webp" group-title="Entertainment", Warner TV (Maxstream)
+https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 "HBO" group-title="Movies", HBO (Maxstream) 
 group-title="Movies", HBO (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
