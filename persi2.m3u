@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1,METRO TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="News" tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1,CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1939049809_b384000_sleng.m3u8
 #EXTINF:-1 group-title="News",TVONE
@@ -87,6 +89,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 
 =====================
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="News", Sindonews (Maxstream)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 tvg-id=">Kompas TV" tvg-name="Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png" group-title="News", Kompas TV (Maxstream)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="News", iNews (Maxstream)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
