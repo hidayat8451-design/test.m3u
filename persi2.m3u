@@ -176,4 +176,26 @@ http://opplextv.cyou:8080/nasir6160/nasir/346385
 https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="Sports (English Language)", Sky Sports F1 (United Kingdom/Alt)
 http://opplextv.cyou:8080/nasir6160/nasir/346380
+#EXTINF:-1 tvg-chno="147" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports (English Language)", TSN 1 (Alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTINF:-1 tvg-chno="148" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Sports (English Language)", TSN 2 (Alt)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+#EXTINF:-1 group-title="Sports (English Language)" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg", HBO Boxing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+#EXTINF:-1 tvg-name="FUBO Sports Network" tvg-id="FuboSportsNetwork.us" tvg-logo="https://object-streamo.emonaja.com/img/fubosportsnetwork.avif" tvg-id="24.7.Dummy.us" group-title="Sports (English Language)", Fubo Sports Network (LGTV United States)
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1358&wurl_name=FuboSportsNetwork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-name="FUBO Sports Network" tvg-id="FuboSportsNetwork.us" tvg-logo="https://object-streamo.emonaja.com/img/fubosportsnetwork.avif" group-title="Sports (English Language)", Fubo Sports Network 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=408644" tvg-id="408644" tvg-logo="https://object-streamo.emonaja.com/img/fubosportsnetwork.avif" group-title="Sports (English Language)", Fubo Sports Network 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
