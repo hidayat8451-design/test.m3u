@@ -39,8 +39,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w672421585_b744100_sle
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1,RODJA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
-EXTINF:-1, TVRI NASIONAL
-https://pildun.cob.web.id/av1-master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES & ENTERTAINMENT NON SUB IND",BIZ CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1,TVRI
 https://pildun.cob.web.id/hls3/index.m3u8
 #EXTINF://-1,TVRI SPORT
