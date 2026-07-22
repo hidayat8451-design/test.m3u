@@ -1,22 +1,9 @@
 #EXTM3U 
-#EXTINF:-1,METRO TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="News" tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTINF:-1,CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1939049809_b384000_sleng.m3u8
-#EXTINF:-1,TRANS TV
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1226435923_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwNzQ4MDk4MDUmd293emF0b2tlbmhhc2g9M0w1ckxuMlZlajkzOF9wblJoYVJxU2pxd0ljWTFORWkwcnlXRVR5SmI3bz0=.m3u8
-#EXTINF:-1,TRANS7
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1420268025_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQwNzUzMjQ5OTQmd293emF0b2tlbmhhc2g9ei01TzVfMFBEQkpCUVpuRjBzTHEzNHJIZW54TzRFTmVjeVRIMGdiN3NBST0=.m3u8
-#EXTINF:-1 group-title="News",TVONE
-#EXTTINF:-,CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1235794240_b192000_sleng.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h40/02.m3u8
-EXTINF:-1,Berita Satu
-https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v0/stream.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
-https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/v0/stream.m3u8
+#EXTINF:-1 tvg-id="74" tvg-chno="621" tvg-name="star-vision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png" group-title="MOVIES & ENTERTAINMENT NON SUB IND", STAR VISION
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/manifest.m3u8?hdnts=st%3D1758606460~exp%3D1758628060~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-STAR-VISION-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F6248c6d3-6b6c-4b88-ae8f-a7c119ab380a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1~hmac%3Dc67efad5e5d630d905ebdf1fa63a1e14fa303bddb63de699ded81c57d3541293
 #EXTINF:-1, JAKTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8
 #EXTINF:-1, JOWO CHANNEL
