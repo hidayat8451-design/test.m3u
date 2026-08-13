@@ -7,10 +7,9 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 #EXTINF:-1, SHOWBIZ
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES & ENTERTAINMENT NON SUB IND",BIZ CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1, Magna Channel
+#EXTINF:-1, BERITA SATU
+ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1214565622_b878000_sleng.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd
