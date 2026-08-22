@@ -9,8 +9,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 #EXTINF:-1, Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1214565622_b878000_sleng.m3u8
-#EXTINF:-1, BERITA SATU
- https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+#EXTINF:-1, BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZv5Dy7sOu2_nM7QADKY9IpjqMKXkTIIikZCj6-rjJtQ&s" group-title="DAERAH",FICOM TV (Ga 24 Jam)
