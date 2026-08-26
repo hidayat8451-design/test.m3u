@@ -33,6 +33,8 @@ https://jakarta.staratv.id/hls/0/stream.m3u8
 https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="MUSIC",STARA TV Malang
 https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="国际",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://object-streamo.emonaja.com/img/warner.webp" group-title="Entertainment", Warner TV (Maxstream)
@@ -97,7 +99,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
 #EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Sports (Indonesia)", Max Sports
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 # Sports (English Language) #
-
 #EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048" group-title="Sports (English Language)", Sky Sports Main Event (United Kingdom)
 https://xemzi.short.gy/2000001
 #EXTINF:-1 tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sky_Sports_Action_-_Logo_2026.svg/3840px-Sky_Sports_Action_-_Logo_2026.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports (English Language)", Sky Sports Action (United Kingdom)
@@ -114,15 +115,6 @@ http://opplextv.cyou:8080/nasir6160/nasir/346385
 https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="Sports (English Language)", Sky Sports F1 (United Kingdom/Alt)
 http://opplextv.cyou:8080/nasir6160/nasir/346380
-#EXTINF:-1 tvg-id="bein2" tvg-name="BeIN Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿" ,BeIN Sports TR 2
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿" ,BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukJox_McoRudUW6FuvoneWk6QMAxAnWyYo7XSAeFPxg&s=10" group-title="🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿",BeIN Sports TR 5
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 channel-id="257afd66cee15a1ca2125fc377e87cc2" tvg-id="257afd66cee15a1ca2125fc377e87cc2" tvg-chno="252" tvg-name="Team USA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/257afd66cee15a1ca2125fc377e87cc2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718724430937_TeamUSATV_HUDLogo_260x147.png" group-title="ALL SPORTS🔥",Team USA TV
 https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8
 #EXTINF:-1,FUBO SPORT
