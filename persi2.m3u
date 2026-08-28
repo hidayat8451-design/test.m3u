@@ -9,8 +9,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8
 #EXTINF:-1, Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1214565622_b878000_sleng.m3u8
-#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="General",RCTI HD (720p)
-https://mncmedia.malingtv.workers.dev/rcti.m3u8
 #EXTINF:-1, BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://www.biznetvideo.net/images/video/poster/adventure.jpg",Biznet Adventure
@@ -37,7 +35,7 @@ https://bandung.staratv.id/hls/0/stream.m3u8
 https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,NATURE TIME
+#EXTINF:-1,NATURETIME
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
@@ -63,13 +61,11 @@ http://iptvtree.net:8080/F25660/4184162c/298513
 http://iptvtree.net:8080/F25660/4184162c/298514
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
 http://iptvtree.net:8080/F25660/4184162c/298529
-
-
-
-=====================
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" , Sky Sport Premier League Jerman
 #EXTGRP:🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports (English Language)", Sky Sports Premier League (United Kingdom)
+https://xemzi.short.gy/2000002
 #EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png",ARENASPORT 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
 #EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png",ARENASPORT 2
@@ -110,8 +106,6 @@ https://xemzi.short.gy/2000011
 #EXTINF:-1 tvg-name="Sky Sports Mix FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1280px-Sky_Sport_Mix_Logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports (English Language)", Sky Sports Mix (United Kingdom)
 https://xemzi.short.gy/2000008
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports (English Language)", Sky Sports Premier League (United Kingdom)
-https://xemzi.short.gy/2000002
 #EXTINF:-1 tvg-name="Sky Sports Racing FHD" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sports (English Language)" radio="false", Sky Sports Racing (United Kingdom)
 http://opplextv.cyou:8080/nasir6160/nasir/346385
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
