@@ -58,6 +58,8 @@ http://iptvtree.net:8080/F25660/4184162c/298514
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
 #EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Entertainment",ROCK Action (1080p)
+http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" , Sky Sport Premier League Jerman
 #EXTGRP:🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
