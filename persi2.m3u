@@ -33,6 +33,8 @@ https://bandung.staratv.id/hls/0/stream.m3u8
 https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 channel-id="USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="3532" tvg-name="Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1,NATURETIME
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1, MY CINEMA EUROPE
