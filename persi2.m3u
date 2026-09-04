@@ -68,6 +68,8 @@ http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports (English Language)", Sky Sports Premier League (United Kingdom)
 https://xemzi.short.gy/2000002
+#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="Sports",UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png",ARENASPORT 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
 #EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png",ARENASPORT 2
