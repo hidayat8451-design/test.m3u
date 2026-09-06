@@ -41,13 +41,12 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://object-streamo.emonaja.com/img/warner.webp" group-title="Entertainment", Warner TV (Maxstream)
-https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbo.png", HBO (Maxstream)
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 "HBO Hits group-title="Movies", HBO Hits (Maxstream)
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-id="NBCUniverso.us@East" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="Entertainment",NBC Universo (720p)
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@US" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="Animation",One Piece
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 "HBOFamily" group-title="Movies", HBO Family (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbosig.png", HBO Signature (Maxstream)
