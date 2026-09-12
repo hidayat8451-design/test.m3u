@@ -79,47 +79,16 @@ http://iptvtree.net:8080/F25660/4184162c/298514
 http://iptvtree.net:8080/F25660/4184162c/298529
 #EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="NCIS.us@CA" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Series",NCIS
-https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
-#EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="Series",NCIS: Los Angeles
-https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="ALL SPORTS🔥",A SPOR SD (360p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_360p.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" , Sky Sport Premier League Jerman
 #EXTGRP:🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport1.png",ARENASPORT 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport2.png",ARENASPORT 2
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-3.png",ARENASPORT 3
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenasport4.png",ARENASPORT 4
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-5-rs.png",ARENASPORT 5
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-6-rs.png",ARENASPORT 6
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
-#EXTINF:-1, group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-7-rs.png",ARENASPORT 7
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-8-rs.png",ARENASPORT 8
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVyWthsSAuVgOTQtR_aCR4Vfw4xIab7YDvuaH0ij3&s=10",ARENASPORT 9
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
-#EXTINF:-1 group-title="ARENA SPORT" group-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-1.png",Arena Premium 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-2.png",Arena Premium 2
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://raw.githubusercontent.com/mimipipi22/logo/refs/heads/main/png/arena-sport-premium-3.png",Arena Premium 3
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium4.png" group-title="ARENA SPORT" ,Arena Premium 4
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27356
-#EXTINF:-1 tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium5.png" group-title="ARENA SPORT" ,Arena Premium 5
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Sports (Indonesia)", Max Sports
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 # Sports (English Language) #
+#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/sportscasting/images/e/e8/Logo_NBC_Sports.png/revision/latest/scale-to-width-down/200?cb=20071215193703" group-title="ALL SPORTS🔥",NBC Sports US
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
 #EXTINF:-1 channel-id="257afd66cee15a1ca2125fc377e87cc2" tvg-id="257afd66cee15a1ca2125fc377e87cc2" tvg-chno="252" tvg-name="Team USA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/257afd66cee15a1ca2125fc377e87cc2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718724430937_TeamUSATV_HUDLogo_260x147.png" group-title="ALL SPORTS🔥",Team USA TV
 https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports",USA Network (1080p)
