@@ -112,6 +112,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #http://103.179.182.117:6768/hls/86/86.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1 tvg-id="sporttvplus" tvg-name="Sport TV+" tvg-logo="https://8upload.com/image/68abfb25e0af7/sporttvplushilay.png" group-title="WORLD SPORTS",Sport TV+
+https://maldivesn.net/hilaytv/sporttvplus
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1" tvg-logo="https://8upload.com/image/68abfb25d3ed2/sporttv-1hilay.png" group-title="WORLD SPORTS",Sport TV 1
+https://maldivesn.net/hilaytv/sporttv1
+
 
 
 
