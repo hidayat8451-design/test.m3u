@@ -119,6 +119,10 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2821
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1789
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports (English Language)", TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://object-streamo.emonaja.com/img/redbulltv.png" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=527269" group-title="Sports (English Language)", Red Bull TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 
 
 
