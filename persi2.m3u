@@ -108,6 +108,16 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="Sports (English Language)", beIN Sports XTRA (United States)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Premier League" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports (English Language)", Astro Premier League
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163684
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1788
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2820
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2839
+#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports (English Language)", Astro Premier League 2
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163683
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2821
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1789
+
 
 
 
