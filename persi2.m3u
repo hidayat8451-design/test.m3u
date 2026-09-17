@@ -111,6 +111,8 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports",NBC Sports NOW (1080p)
