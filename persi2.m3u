@@ -5,10 +5,6 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h209/S2/mnf.m3u8
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1,TRANS TV
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w641609926_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2MTc4NDQxNTYmd293emF0b2tlbmhhc2g9cnBVUFRfZXVZVEJ1Rkd5bWJaTHYwWkJGYTctTkk5ajBYbXRVS0pTSktqUT0=.m3u8
-#EXTINF:-1,TRANS 7
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w856406794_b544100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2MTgwODQ4MjImd293emF0b2tlbmhhc2g9LTJtR1c5WEw1cmZZang5Z29kcWJsX0FsV05WVEVFRUtEUjhMQktjeHFmZz0=.m3u8
 #EXTINF:-1,RODJA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Undefined",MQTV (720p) [Not 24/7]
