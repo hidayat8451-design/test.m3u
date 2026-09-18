@@ -85,6 +85,8 @@ http://iptvtree.net:8080/F25660/4184162c/298513
 http://iptvtree.net:8080/F25660/4184162c/298514
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
 http://iptvtree.net:8080/F25660/4184162c/298529
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies;Series",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="NonStopKungFu.se@DK" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" group-title="Movies",NonStop Kung Fu
@@ -100,6 +102,18 @@ https://pal6.short.gy/skyspt8nz
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" , Sky Sport Premier League Jerman
 #EXTGRP:🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048" group-title="Sports (English Language)", Sky Sports Main Event (United Kingdom)
+https://xemzi.short.gy/2000001
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports (English Language)", Sky Sport Premier League (New Zealand)
+https://pal6.short.gy/skyspt8nz
+#EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports (Non-English Language)", DAZN 1 (Alt)
+http://50.7.120.34:8080/DAZN1/index.m3u8
+#EXTINF:-1:-1 tvg-id="DAZN2.uk" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports (Non-English Language)", DAZN 2 (Alt)
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports (Non-English Language)", DAZN 3 (Alt)
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports (Non-English Language)", DAZN 4 (Alt)
+http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Sports (Indonesia)", Max Sports
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 # Sports (English Language) #
@@ -142,14 +156,6 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=1789
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra en EspaÃ±ol" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="Sports (Non-English Language)", beIN Sports XTRA ñ (Spain)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports (Non-English Language)", DAZN 1 (Alt)
-http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN2.uk" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports (Non-English Language)", DAZN 2 (Alt)
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports (Non-English Language)", DAZN 3 (Alt)
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports (Non-English Language)", DAZN 4 (Alt)
-http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ (English)
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ (English/Alternate)
@@ -159,10 +165,6 @@ https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (720p)
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048" group-title="Sports (English Language)", Sky Sports Main Event (United Kingdom)
-https://xemzi.short.gy/2000001
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports (English Language)", Sky Sport Premier League (New Zealand)
-https://pal6.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="QazSport.kz@SD" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports",QazSport (1080p)
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 3
