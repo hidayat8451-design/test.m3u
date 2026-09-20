@@ -91,6 +91,15 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="ALL SPORTS🔥",A SPOR SD (360p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_360p.m3u8
+#EXTINF:-1 tvg-name="Astro Premier League" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports (English Language)", Astro Premier League
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163684
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1788
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2820
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2839
+#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports (English Language)", Astro Premier League 2
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163683
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2821
+http://xsmt.ccwu.cc/xsmt/smt.php?id=1789
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" , Sky Sport Premier League Jerman
 #EXTGRP:🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
