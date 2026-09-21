@@ -178,6 +178,11 @@ https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsTU5heTAFtGIv1BJDUGlITBdszZxqPoAJXbxFBfi8A&s=10" group-title="ALL SPORTS🔥",OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="ALL SPORTS🔥",UFC (Server 1)
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="ALL SPORTS🔥",UFC (Server 2)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 
 
 
