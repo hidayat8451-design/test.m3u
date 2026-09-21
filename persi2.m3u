@@ -5,6 +5,14 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h209/S2/mnf.m3u8
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="TVRI DAERAH",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="TVRI DAERAH",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="TVRI DAERAH",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="TVRI DAERAH",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 #EXTINF:-1,RODJA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Undefined",MQTV (720p) [Not 24/7]
