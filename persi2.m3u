@@ -1,5 +1,7 @@
 #EXTM3U 
-
+#EXTINF:-1,TRANS TV
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w350634220_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTA2MTE3OTU4Mzcmd293emF0b2tlbmhhc2g9REM0emt5RmFYSG5mMWRGWXVFWVBobERLbmVLbVhDQ1g3TUdILXBtemJYWT0=.m3u
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w350634220_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTA2MTE3OTU4Mzcmd293emF0b2tlbmhhc2g9REM0emt5RmFYSG5mMWRGWXVFWVBobERLbmVLbVhDQ1g3TUdILXBtemJYWT0=.m3u
 #EXTINF:-1, JAKTV
 https://op-flashcon-digdayasd-1.dens.tv/h/h209/S2/mnf.m3u8
 #EXTINF:-1, JOWO CHANNEL
