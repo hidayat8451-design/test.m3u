@@ -82,9 +82,8 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
-
-#EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="Animation;Kids;Series",Avatar (Germany)
-https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+#EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & ENTERTAINMENT NON SUB IND",ION Plus
+https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Movies", Universal Movies
