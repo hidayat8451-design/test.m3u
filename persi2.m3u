@@ -151,11 +151,16 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", HBO
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBOHits" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", HBO HITS
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBOFamily" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79otR.png",HBO Family 
