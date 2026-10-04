@@ -103,6 +103,10 @@ https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
 https://cdnbal1.indihometv.com/atm/DASH/crimeinvestigation/crimeinvestigation-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
+https://cdnbal1.indihometv.com/atm/DASH/history/history-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
+https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
