@@ -142,15 +142,19 @@ http://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",TVN MOVIES (TRANS2)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-id="HBO" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", HBO
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-id="HBOHits" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", HBO HITS
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
@@ -158,139 +162,144 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 #EXTINF:-1 tvg-id="HBOFamily" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79otR.png",HBO Family 
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-id="HBOSig" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature 
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 ##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+
 #EXTINF:-1 tvg-id="Cinemax" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
 http://31.43.191.125:8080/restream/restream/34572
 ##https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png",tvN
-https://cdnbal1.indihometv.com/atm/DASH/tvn/tvn-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="KIX.hk@SD" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX
-https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN
-https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
-https://cdnbal1.indihometv.com/atm/DASH/crimeinvestigation/crimeinvestigation-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
-https://cdnbal1.indihometv.com/atm/DASH/history/history-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax
-https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png",Celestial Movies
-https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
-https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png",tvN Movies
-#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
-https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
-ps://cdnbal1.indihometv.com/atm/DASH/tvnmovies/tvnmovies-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT", AXN (TRV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
+
 
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
+
 #EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & ENTERTAINMENT NON SUB IND",ION Plus
 https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8#EXTINF:-1 tvg-id="684167" tvg-logo="https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & ENTERTAINMENT NON SUB IND",ION Mystery
 https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
+
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Movies", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
+
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Movies" tvg-id="DE4000002I3" tvg-name="Moviesphere", Moviesphere by Lionsgate
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="Movies",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXVLCOPT:sub-file=https://server-subtitle.com/MOVIESPHERE BY LIONGATE.en.srt
+
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Drama Movies UK (1080p)
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+
 #EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
 #EXVLCOPT:sub-file=https://server-subtitle.com/CCTV6.en.srt
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="TV CHINA 🇨🇳",金庸武侠电影 ①
 https://live.metshop.top/huya/11342427
+
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="Sports",CCTV-Golf & Tennis (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Sports",CCTV-Storm Football (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="ALL SPORTS🔥",A SPOR SD (360p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_360p.m3u8
+
 #EXTINF:-1 tvg-name="Astro Premier League" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Sports (English Language)", Astro Premier League
 http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163684
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1788
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2820
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2839
+
 #EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports (English Language)", Astro Premier League 2
 http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163683
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2821
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1789
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png" , Sky Sport Bundesliga 1 Jerman
 #EXTGRP:🔵Bundesliga⚽🇩🇪
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" , Sky Sport Premier League Jerman
 #EXTGRP:🔵Premier League⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿
 http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
+
 #EXTINF:-1 tvg-name="Sky Sports Main Event FHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220728001048" group-title="Sports (English Language)", Sky Sports Main Event (United Kingdom)
 https://xemzi.short.gy/2000001
+
 #EXTINF:-1:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports (Non-English Language)", DAZN 1 (Alt)
 http://50.7.120.34:8080/DAZN1/index.m3u8
+
 #EXTINF:-1:-1 tvg-id="DAZN2.uk" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports (Non-English Language)", DAZN 2 (Alt)
 http://23.237.104.106:8080/DAZN_2/index.m3u8
+
 #EXTINF:-1:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports (Non-English Language)", DAZN 3 (Alt)
 http://23.237.104.106:8080/DAZN_3/index.m3u8
+
 #EXTINF:-1:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports (Non-English Language)", DAZN 4 (Alt)
 http://23.237.104.106:8080/DAZN_4/index.m3u8
+
 #EXTINF:-1 tvg-id="MAXSports.id@SD" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",MAXSports
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
-# Sports (English Language) #
+
 #EXTINF:-1 channel-id="257afd66cee15a1ca2125fc377e87cc2" tvg-id="257afd66cee15a1ca2125fc377e87cc2" tvg-chno="252" tvg-name="Team USA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/257afd66cee15a1ca2125fc377e87cc2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718724430937_TeamUSATV_HUDLogo_260x147.png" group-title="ALL SPORTS🔥",Team USA TV
 https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8
+
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="Sports",ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/23/2e/42/232e422495f2dd84b70fb141c543769b.jpg" group-title="☆SPORT+☆", ESP 7
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-http://190.60.37.118:4000/play/a09j
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="TV Malaysia 🇲🇾",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports (English Language)", TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="Sports (English Language)", beIN Sports XTRA (United States)
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS Xtra en EspaÃ±ol" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="Sports (Non-English Language)", beIN Sports XTRA ñ (Spain)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ (English)
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ (English/Alternate)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+
 #EXTINF:-1 tvg-id="QazSport.kz@SD" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports",QazSport (1080p)
 http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Outdoor;Sports",Red Bull TV DE (1080p)
-https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsTU5heTAFtGIv1BJDUGlITBdszZxqPoAJXbxFBfi8A&s=10" group-title="ALL SPORTS🔥",OMAN SPORT
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="ALL SPORTS🔥",UFC (Server 1)
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/cb543d1f7a6c6c8c84cb3867cef043a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe40b17d065a5e31f55c77a42e39f43c8821da688dd5aca5ed323a342c997a58bd14584d79b72936de3241967206897847596bb2edcab9c7b3c997d21501b46f6ac81ea5d72925119329299d9be71f61dc9fb41eb02079c5ae625ec319a7b9507a6ec4bd2dfd1af64533ca184776831a5a5939af42727ae3cb2c88ad97a78ebb47e38169b6c8d24296cc9ac9d4ddcc54192b57684b76c483bc3c211ca9fe187b9b6d810f64fa9cbf98c4f2124025558f337c0936ea946b71581ef31700b016d8cb80493cb8804130822858f50c01615ade48c86d11c3eb832710acc72d85c455ecd376572e261d49528639b6638843634f55f79ad4de8b73ee6b7d4f7127787dfc44bf168a3861adde416f31d56310eb2fc2b4a444b78a28a0c6f054a99298eb6c9ee6719019e94a79f90094b6d5510561c99dde47f959dc5270964a23947302e627dfe0dd068e01450102bbb78b9c80d648c027b598ccd2a4e657c84c1a78084cfb822df1b82e1c41775513300b93d11540db9d7dc038452397d7553940a6a57820b5354ef86ddf79c8163bcff0ecb69387f09a1f713511b2010096bcbca10bd32e19b1cb795cf50f3e18c1f40f754c9673ebfe3ff4dcadfaead3c673c6e536305bef765ac5a23c318da2e9bdb71aadf3f643d0f3083461336853b98cc93c651fa66cd1d4016621fca397d61cdf4869f313347832ded87ab6856666099c9dc654f51edb726f449e7d198c8285b1e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77ebd72f085ec40fed0aefffd7605571502af96b9a942a9c9602f8c72d549220f8fcab5a4179cf4884729ba13b0ff4404c8197152cea7fe7eb808b0f43627e2c72419e27d3cc5efe8355eaf00a2333969fedd8b0c639b236e76bb0420915b9f1e934450e85710f577ba37696b39/84/848x480_1513283/index.m3u8
+
 #EXTINF:-1, NASCAR
 https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/cb543d1f7a6c6c8c84cb3867cef043a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe40b17d065a5e31f55c77a42e39f43c8821da688dd5aca5ed323a342c997a58bd14584d79b72936de3241967206897847596bb2edcab9c7b3c997d21501b46f6ac81ea5d72925119329299d9be71f61dc9fb41eb02079c5ae625ec319a7b9507a6ec4bd2dfd1af64533ca184776831a5a5939af42727ae3cb2c88ad97a78ebb47e38169b6c8d24296cc9ac9d4ddcc54192b57684b76c483bc3c211ca9fe187b9b6d810f64fa9cbf98c4f2124025558f337c0936ea946b71581ef31700b016d8cb80493cb8804130822858f50c01615ade48c86d11c3eb832710acc72d85c455ecd376572e261d49528639b6638843634f55f79ad4de8b73ee6b7d4f7127787dfc44bf168a3861adde416f31d56310eb2fc2b4a444b78a28a0c6f054a99298eb6c9ee6719019e94a79f90094b6d5510561c99dde47f959dc5270964a23947302e627dfe0dd068e01450102bbb78b9c80d648c027b598ccd2a4e657c84c1a78084cfb822df1b82e1c41775513300b93d11540db9d7dc038452397d7553940a6a57820b5354ef86ddf79c8163bcff0ecb69387f09a1f713511b2010096bcbca10bd32e19b1cb795cf50f3e18c1f40f754c9673ebfe3ff4dcadfaead3c673c6e536305bef765ac5a23c318da2e9bdb71aadf3f643d0f3083461336853b98cc93c651fa66cd1d4016621fca397d61cdf4869f313347832ded87ab6856666099c9dc654f51edb726f449e7d198c8285b1e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77ebd72f085ec40fed0aefffd7605571502af96b9a942a9c9602f8c72d549220f8fcab5a4179cf4884729ba13b0ff4404c8197152cea7fe7eb808b0f43627e2c72419e27d3cc5efe8355eaf00a2333969fedd8b0c639b236e76bb0420915b9f1e934450e85710f577ba37696b39/84/848x480_1513283/index.m3u8
 
