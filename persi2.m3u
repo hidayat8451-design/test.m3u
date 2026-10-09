@@ -141,17 +141,9 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk@SD" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Chinese",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79f8g.png",HBO 
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", HBO
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-
-#EXTINF:-1 tvg-id="HBOHits" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
-http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ LIVE TV", HBO HITS
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -173,28 +165,12 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="English",HITS Movies (576p)
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@DK" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="Danish",Pluto TV True Crime (Sweden) DK
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png" group-title="MOVIES & ENTERTAINMENT", AXN (TRV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
-
-
 #EXTINF:-1, MY CINEMA EUROPE
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-id="IONTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="English",ION TV (720p)
 http://23.237.104.106:8080/USA_ION/index.m3u8
 
-#EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & ENTERTAINMENT NON SUB IND",ION Plus
-https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8#EXTINF:-1 tvg-id="684167" tvg-logo="https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & ENTERTAINMENT NON SUB IND",ION Mystery
-https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
 #EXTINF:-1 tvg-id="684167" tvg-logo="https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==" group-title="MOVIES & ENTERTAINMENT NON SUB IND",ION Mystery
 https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
 
