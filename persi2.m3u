@@ -294,8 +294,6 @@ http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1, NASCAR
 https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/cb543d1f7a6c6c8c84cb3867cef043a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe40b17d065a5e31f55c77a42e39f43c8821da688dd5aca5ed323a342c997a58bd14584d79b72936de3241967206897847596bb2edcab9c7b3c997d21501b46f6ac81ea5d72925119329299d9be71f61dc9fb41eb02079c5ae625ec319a7b9507a6ec4bd2dfd1af64533ca184776831a5a5939af42727ae3cb2c88ad97a78ebb47e38169b6c8d24296cc9ac9d4ddcc54192b57684b76c483bc3c211ca9fe187b9b6d810f64fa9cbf98c4f2124025558f337c0936ea946b71581ef31700b016d8cb80493cb8804130822858f50c01615ade48c86d11c3eb832710acc72d85c455ecd376572e261d49528639b6638843634f55f79ad4de8b73ee6b7d4f7127787dfc44bf168a3861adde416f31d56310eb2fc2b4a444b78a28a0c6f054a99298eb6c9ee6719019e94a79f90094b6d5510561c99dde47f959dc5270964a23947302e627dfe0dd068e01450102bbb78b9c80d648c027b598ccd2a4e657c84c1a78084cfb822df1b82e1c41775513300b93d11540db9d7dc038452397d7553940a6a57820b5354ef86ddf79c8163bcff0ecb69387f09a1f713511b2010096bcbca10bd32e19b1cb795cf50f3e18c1f40f754c9673ebfe3ff4dcadfaead3c673c6e536305bef765ac5a23c318da2e9bdb71aadf3f643d0f3083461336853b98cc93c651fa66cd1d4016621fca397d61cdf4869f313347832ded87ab6856666099c9dc654f51edb726f449e7d198c8285b1e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77ebd72f085ec40fed0aefffd7605571502af96b9a942a9c9602f8c72d549220f8fcab5a4179cf4884729ba13b0ff4404c8197152cea7fe7eb808b0f43627e2c72419e27d3cc5efe8355eaf00a2333969fedd8b0c639b236e76bb0420915b9f1e934450e85710f577ba37696b39/84/848x480_1513283/index.m3u8
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="Chinese",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sport1.cz@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Czech",Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -305,8 +303,6 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportyTV.cz@SD" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="Czech",Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="English",MMA-TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
@@ -332,6 +328,10 @@ https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 
 
