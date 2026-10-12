@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="SHAREEXT@ LIVE TV" tvg-logo="https://i.postimg.cc/KvH2YWxq/ezgif-648bdcd09d3daf.png",SIN PO TV (VD)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=190468&type=drm
+https://tvratu.my.id/vid/index.mpd?id=19046&type=dash
+
 #EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://logo.catvod.com/精彩影视.png",WASU GREAT MOVIES & FTV
 http://192.187.124.34:81/live/hsjcys.m3u8
 
