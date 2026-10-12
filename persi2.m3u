@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://logo.catvod.com/精彩影视.png",WASU GREAT MOVIES & FTV
+http://192.187.124.34:81/live/hsjcys.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ LIVE TV", tvg-logo="https://logo.catvod.com/欧美影院.png",WASU WESTERN CINEMA
+http://192.187.124.34:81/live/hsomyy.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="Cinemax" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
+http://31.43.191.125:8080/restream/restream/34572
+##https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
