@@ -256,6 +256,8 @@ http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8
 
 #EXTINF:-1, BEIN SPORT 3
 https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1, CRT SPORT
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRSport.it@SD" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
