@@ -187,6 +187,10 @@ https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMx
 #EXTINF:-1 ,HBO SIGNATURE TAIWAN
 https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
 
+#EXTINF:-1 tvg-id="Cinemax" group-title="SHAREEXT@ LIVE TV" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
+http://31.43.191.125:8080/restream/restream/34572
+
+
 #EXTINF:-1 ,CINEMAX TAIWAN
 https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
 https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
