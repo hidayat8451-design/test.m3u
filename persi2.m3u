@@ -164,6 +164,8 @@ https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-id="auto.4k.uhd" group-title="Entertainment",4K UHD
 https://4kuhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="blues.tv" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="Animation / Anime Channels",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="MUSIC",STARA TV Jakarta
 https://jakarta.staratv.id/hls/0/stream.m3u8
