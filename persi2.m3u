@@ -368,6 +368,8 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="InterTV.it@SD" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Sports",Inter TV (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
+#EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Sports",Milan TV (720p)
+http://team-tv.co:81/milan/index.m3u8
 
 #EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Sports",Milan TV (720p)
 http://team-tv.co:81/milan/index.m3u8
