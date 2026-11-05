@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",ANTV (TRANS)
+http://202.150.165.66:8088/play/807-ANTV/index.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -232,6 +235,7 @@ http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Cinemax (TRANS)
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="English",HITS Movies (576p)
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
