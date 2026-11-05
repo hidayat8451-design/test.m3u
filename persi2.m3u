@@ -2,6 +2,15 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",ANTV (TRANS)
 http://202.150.165.66:8088/play/807-ANTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Indosiar (TRANS)
+http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",MNC (TRANS)
+http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",RCTI (TRANS)
+http://202.150.165.66:8088/play/811-RCTI/index.m3u8
+
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
