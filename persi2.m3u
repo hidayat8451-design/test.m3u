@@ -256,6 +256,23 @@ http://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",AXN (TRANS)
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Celestial Movies (TRANS)
+http://202.150.165.66:8088/play/108-Celestial/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Thrill (TRANS)
+http://202.150.165.66:8088/play/109-Thrill/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Warner TV (TRANS)
+http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",tVN (TRANS)
+http://202.150.165.66:8088/play/321-tvN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",tvN Movies (TRANS)
+http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Bioskop Indonesia (TRANS)
+http://202.150.165.66:8088/play/107-BioskopIndonesia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO (TRANS)
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
